@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/foodcord/static/css/main.89d13d6a.css",
+    "main.js": "/foodcord/static/js/main.5cbbc914.js",
+    "static/media/burger.png": "/foodcord/static/media/burger.a33e60ff26e49d2ef156.png",
+    "static/media/phone-img.png": "/foodcord/static/media/phone-img.b754fac39dc57322f455.png",
+    "static/media/pizza.png": "/foodcord/static/media/pizza.041ac8c41942ba5af6ad.png",
+    "static/media/sushi.png": "/foodcord/static/media/sushi.6599e707c5fa98177452.png",
+    "static/media/Group 8429.png": "/foodcord/static/media/Group 8429.ad192af2814916cd5b96.png",
+    "static/media/1.png": "/foodcord/static/media/1.17293268e6ef04cb533e.png",
+    "static/media/flat-burger.png": "/foodcord/static/media/flat-burger.d0e68761d9bc57347a83.png",
+    "static/media/flat-sushi.png": "/foodcord/static/media/flat-sushi.9dcd6866772ba6e62122.png",
+    "static/media/applestoreImg.png": "/foodcord/static/media/applestoreImg.e04a5a5a5e87a5c0d709.png",
+    "static/media/flatDrink.png": "/foodcord/static/media/flatDrink.23d6e2006a639b162c85.png",
+    "static/media/pizza-flat.png": "/foodcord/static/media/pizza-flat.aef9f27a98a24e4d3919.png",
+    "static/media/logo.svg": "/foodcord/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/foodcord/index.html",
+    "main.89d13d6a.css.map": "/foodcord/static/css/main.89d13d6a.css.map",
+    "main.5cbbc914.js.map": "/foodcord/static/js/main.5cbbc914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d13d6a.css",
+    "static/js/main.5cbbc914.js"
+  ]
+}
