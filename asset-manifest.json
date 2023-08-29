@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/foodcord/static/css/main.89d13d6a.css",
+    "main.css": "/foodcord/static/css/main.db53082c.css",
     "main.js": "/foodcord/static/js/main.61dec20e.js",
     "static/media/burger.png": "/foodcord/static/media/burger.a33e60ff26e49d2ef156.png",
     "static/media/phone-img.png": "/foodcord/static/media/phone-img.b754fac39dc57322f455.png",
@@ -15,11 +15,11 @@
     "static/media/pizza-flat.png": "/foodcord/static/media/pizza-flat.aef9f27a98a24e4d3919.png",
     "static/media/logo.svg": "/foodcord/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/foodcord/index.html",
-    "main.89d13d6a.css.map": "/foodcord/static/css/main.89d13d6a.css.map",
+    "main.db53082c.css.map": "/foodcord/static/css/main.db53082c.css.map",
     "main.61dec20e.js.map": "/foodcord/static/js/main.61dec20e.js.map"
   },
   "entrypoints": [
-    "static/css/main.89d13d6a.css",
+    "static/css/main.db53082c.css",
     "static/js/main.61dec20e.js"
   ]
 }
